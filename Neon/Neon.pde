@@ -5,7 +5,7 @@ void setup() {
   size(800, 600);
   
   // Load image 
-  img = loadImage("IMG_1497.jpg");
+  img = loadImage("intersection.jpg");
   
   // Resize image to fit canvas if needed
   img.resize(width, height);
